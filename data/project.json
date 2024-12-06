@@ -1,21 +1,153 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "saamturner",
+    "is_private": false,
+    "title": "Leslie Flint test",
+    "description": "Testing out spreadsheets",
+    "language": "en",
+    "slug": "flinttest",
+    "creator": "saamturner",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Voice",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Recording",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Topic",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Environment",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        },
+        {
+          "tag": "Pace",
+          "category": "Voice"
+        },
+        {
+          "tag": "Tone",
+          "category": "Voice"
+        },
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        },
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        },
+        {
+          "tag": "Volume",
+          "category": "Recording"
+        },
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Dormant",
+          "category": "Topic"
+        },
+        {
+          "tag": "Quoting",
+          "category": "Topic"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
+        },
+        {
+          "tag": "Sherlock Holmes",
+          "category": "Topic"
+        },
+        {
+          "tag": "Banging",
+          "category": "Environment"
+        },
+        {
+          "tag": "Knock",
+          "category": "Environment"
+        },
+        {
+          "tag": "Traffic",
+          "category": "Environment"
+        }
+      ]
+    },
+    "created_at": "2024-12-06T01:15:46.363Z",
+    "updated_at": "2024-12-06T01:15:46.363Z"
   }
 }
