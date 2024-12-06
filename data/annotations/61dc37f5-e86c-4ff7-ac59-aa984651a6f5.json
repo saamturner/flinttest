@@ -1,5 +1,1871 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many people do not seem to have time, even if they have the opportunity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "b5127c77-e529-4992-befc-1123090edd57"
+    },
+    {
+      "start_time": 8,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "29abdfbb-b0fd-4780-abb4-145228971b3c"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so many people have no opportunity and plenty of time.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ead92113-3907-43d3-b21d-175bee576a69"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "802dbd2c-545e-4071-befd-810698635693"
+    },
+    {
+      "start_time": 15,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so many people have no time nor opportunity - and the vast majority have no inclination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0aaa9b67-9bd5-4a6c-8e5c-4fddac4d7851"
+    },
+    {
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8f0cdb1e-1209-4d46-ac7e-b97d14e2bc01"
+    },
+    {
+      "start_time": 39,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "3f5dc273-f9d9-416a-8b8e-e74395ed35aa"
+    },
+    {
+      "start_time": 25,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tragedy of your world is, that so few people are concerned with the things that really matter. Everyone finds time and makes opportunity, if possible, for the most mundane, most miserable of material things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d8a3b257-bde4-484c-83f4-ee242500e5a2"
+    },
+    {
+      "start_time": 49,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Things which to them seem on the surface so important, so vital, so necessary. One appreciates, of course, the problems of your life and the difficulties, the struggle of making a living in the ordinary way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3f5625a4-c05d-42e3-bc95-dfb025efcb17"
+    },
+    {
+      "start_time": 70,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The average person I quite understand has many problems to contend with. Yours is a complicated and difficult life. Your world gives many... pause problems and the average person no matter who he or she may be will devote all their effort and time to striving to overcome obstacles. Indeed, man has a nature that enables him no matter what the setbacks audio fades 1:51 to keep on striving and struggling. But all this is invariably of the material background/distortion 2:00 and there are so few who are prepared to make any effort whatsoever in regard to the things that are of the spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        },
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "34f770c8-af6b-48cb-867a-0f3f8fea7abd"
+    },
+    {
+      "start_time": 73,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slip??"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "9c338935-9f04-4c1b-9a2a-e657fc547d45"
+    },
+    {
+      "start_time": 120,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "c3092ef6-1f68-4bcd-8a33-7a50e2e716b2"
+    },
+    {
+      "start_time": 131,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even when a key, as it were, is put in the door and turned for them, very few would in a spiritual sense make any attempt, even when the door is opened, to walk through and see what is on the other side. You know, when I was on your side, I was so often distressed. So often concerned with people who even though opportunity was presented to them, they took little advantage of it and if they did, even in spite of their pause nature, they would not pause willingly accept the truth, the evidence of Spiritualism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "51378fc8-b315-498b-bf23-d3b961292db7"
+    },
+    {
+      "start_time": 167,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "2d5efc48-31ff-4665-8ae8-d4e06518c283"
+    },
+    {
+      "start_time": 192,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even some of those who took the trouble to read books or perhaps attend meetings quite often, in spite sharp exhale? of the fact that they themselves presented obstacles from within themselves, who were presented with evidence Traffic 3:30-43 which would satisfy any ordinary, intelligent person - they would refute it, or if they did not refute it, they would find an explanation for it. Quite often more wonderful than the actual thing itself. Pause There is such a lot that distresses one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8a3cd49c-e033-41da-8f58-098818f272bc"
+    },
+    {
+      "start_time": 239,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When one strives to assist and to help people find truth, the extraordinary thing is, that even those who profess to be searchers after truth, invariably by their very nature, build up barriers, so the truth has even more difficulty in making itself known and understood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "28403364-dc07-4a6c-ac2c-e7669bdc2b57"
+    },
+    {
+      "start_time": 239,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "1739acb0-2017-4e10-9990-4fd5077af12f"
+    },
+    {
+      "start_time": 271,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even those who profess to be truly seeking spiritually, particularly those of varying religions...religious organisations where you would expect they would welcome truth with open arms, where you would anticipate that they would be more than delighted... have substantial evidence to support their own beliefs - even among men of high intelligence and foresight, you find that they build obstacles, barriers. Their minds are quite often are so closed that you just cannot pierce the wall that they build up. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3d8ef8a9-a162-476d-a7fb-f8b1ba21e229"
+    },
+    {
+      "start_time": 325,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet, many of them in themselves are sincere and honest, well meaning. When I was on your side, in my work to bring Spiritualism to the forefront, to interest people and arouse their curiosity, if you like, so that they might find something of real value, something that would be helpful to them, something that would comfort them - quite often you would find, over and over again, these individuals who having received pause by one means or another, proof of survival, that they would quite often dispute it, try to tear it to pieces, try to make excuses and find other explanations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "17c62563-a0bd-4fda-a1a6-cd913e5f1d56"
+    },
+    {
+      "start_time": 359,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "4e6dcee1-6382-448c-a203-ef2df3e8314d"
+    },
+    {
+      "start_time": 387,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I went on my tours, when I lectured as I did so often pause and I expounded my beliefs, pause occasionally someone would ask an intelligent question from the audience. But more often than not, I think they came more out of curiosity to see the man who had written Sherlock Holmes. They were more concerned with seeing me, to meet the person, as it were, who’d aroused so much interest with his books, rather than come and listen to my pause deep-founded beliefs. There were those who said that I was a fool. That I was ruining my reputation, that I was building up for myself pause complications which would affect the sales of my books... that would affect pause not only the sales of my books but my integrity as a human being!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4f325d17-26f4-4f63-958a-5ef606f8f45a"
+    },
+    {
+      "start_time": 432,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distortion"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "019d943e-3537-4fd9-9f83-f161d6a141f7"
+    },
+    {
+      "start_time": 465,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unintelligible "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8f010236-74a8-4e2c-b2cc-bf1a51bbb935"
+    },
+    {
+      "start_time": 464,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you know it's an extraordinary thing, whenever a man of some substance, a man in a position, whether it is such as myself or whether it be someone like Hannen Swaffer or whether it be someone like Lord Dowding or Sir Oliver Lodge - the more respected you are, the more you are as it were put on the pedestal..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9cd67b1c-af74-4ee1-a963-2ea5b7d427f3"
+    },
+    {
+      "start_time": 469,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "bb59cb9f-7a30-4538-be5e-3942cdfc2a22"
+    },
+    {
+      "start_time": 493,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unintelligible "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "14e3efdf-b34a-47e0-b6de-e0bfcbf249e3"
+    },
+    {
+      "start_time": 494,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...of public opinion and affection, the more they think you must be something of a crank. Laughter If you happen to say that you are interested in Spiritualism or that you’re convinced of survival, they say 'oh yes, such a clever brain you know, such a remarkable man, but you know of course he’s gone a little bit off his head coughing in his old age.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "dd6ae2ff-16b0-4697-bacb-2b18f24cf19a"
+    },
+    {
+      "start_time": 502,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "90eb6e43-0328-4a5d-be0e-de382a7b34d1"
+    },
+    {
+      "start_time": 517,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter Coughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        },
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "c5de8d20-2d66-49c7-8654-99b7db32bd33"
+    },
+    {
+      "start_time": 519,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8d9eb066-5e76-4d01-9e2f-b888c4b1d52e"
+    },
+    {
+      "start_time": 520,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A number of people who have never said it to my face but implied it in various ways, in magazines and in papers and indeed, on a few odd occasions in my audience, who suggested that perhaps I’d been writing so much fiction for so long that I’d created something from my own brain in regard to this subject."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "830080e6-bb6e-4a4b-9fe0-2731d47a00ef"
+    },
+    {
+      "start_time": 537,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "0a62fc72-5e16-4436-9fcb-7ce239407233"
+    },
+    {
+      "start_time": 544,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "5db5afde-765a-40d8-b5bb-34b7606291d6"
+    },
+    {
+      "start_time": 545,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know people are extraordinary. If you give them what they want they like you very much. But if you give them something that they don’t want or think they don’t want or something which is... ...foreign Coughing/Banging to their nature or to their upbringing and background or if you tell them something that is against the accepted beliefs, whether it is in religion or in politic or whatever it is that goes against the grain, they think, 'oh well poor old thing. He’s a dear old thing he’s contributed a great deal in his own way, but now, of course, he is getting on a bit, and he has gone a little bit soft.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b2b8c322-2ef9-4bc3-aa3e-039d74ed73b5"
+    },
+    {
+      "start_time": 561,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing/Banging"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        },
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "3e74d96e-6835-496b-9882-bb52a8a6bed7"
+    },
+    {
+      "start_time": 588,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you ever spoken to any of these people on the Earth since you’ve been over?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "692c6887-2ff4-457a-9e9e-590feea082cb"
+    },
+    {
+      "start_time": 592,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I’ve been through and spoken at different times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bacd1c51-eeec-470c-9a8c-bdfd1354fb73"
+    },
+    {
+      "start_time": 597,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what do they think now? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b75248d5-9435-4822-a7d0-822a7a14d8d9"
+    },
+    {
+      "start_time": 599,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well of course now, some think I’m still a bit potty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "62a58651-557b-4539-a304-b652b74a63e5"
+    },
+    {
+      "start_time": 602,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "ff9392ac-d447-4f40-8218-af46c0d22474"
+    },
+    {
+      "start_time": 603,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But they still think it’s not me. You know that if I were to come through, if it were possible and write a new book or perhaps some new adventures of Sherlock Holmes and though they were published, people wouldn’t believe that I had come through and I had given them out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sherlock Holmes",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6968c403-baec-4af1-ab03-a6a3708bd684"
+    },
+    {
+      "start_time": 606,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "010edb0f-dff1-40c8-b7ae-65504b63d2c9"
+    },
+    {
+      "start_time": 621,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They would say, 'oh no, no'. No matter how brilliant the book may be or even if they were better...if the book was better than anything I had written before, they would still say, 'oh no, it couldn’t be, it couldn’t possibly be. It must be some old manuscript that they’ve discovered and brought up that he wrote when he was on Earth' or they would make some excuse of course, in some shape or form. You know, evidence of survival is something so personal to the individual that, in a sense, you cannot really lay down any fast, hard rules concerning it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1fb26bba-5564-46e2-8c26-117ce1a09139"
+    },
+    {
+      "start_time": 657,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is evidence to one person cannot be evidence to another. And of course, we have to accept this. But what amazes me is, that the number of intelligent, intellectual people, men of repute who sacrifice, indeed their good name you might say and a source of income, and indeed have given up so much of their personal life to expounding this truth, are invariably looked upon as cranks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f1a7cab9-7b28-4018-b58f-5d60bedb44e4"
+    },
+    {
+      "start_time": 686,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "c8c7c029-dd8d-46d0-b546-099b95db751c"
+    },
+    {
+      "start_time": 691,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if we are a sort of breed of people who have all gone a little bit 'off the mark' you know. I often have talks to Lodge and I often speak to Crookes and many of the other friends of mine over here, and of course we all suffered from this. And in a sense, I suppose, we're still talked about and we’re still criticised"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a59cc0cc-bab0-4073-8b79-9d2a08c8e3d1"
+    },
+    {
+      "start_time": 718,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed, I understand that there are still many people in your world who, though they respect and admire us with our particular work in our particular field, whether it is science or literature, they still think the other aspect of our lives, which became the main interest in our lives, our interest in this great subject, this subject which should and certainly does affect every human being, this universal subject, this universal truth - they still won’t... won't accept that aspect of our interest, of our belief and our great crusade - because it was a crusade"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "77edb3a4-cfa4-40f9-b0c0-025966a40c49"
+    },
+    {
+      "start_time": 762,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Doy...when I and when Lodge and all the other...Crookes...when all we who endeavoured to, to, to expound this truth, expound this knowledge, when we tried to break down the barriers of criticism, we would be set upon by all manner of people in all walks of life, from those of religious persuasion to those who had little or none"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Leslie Flint"
+        }
+      ],
+      "uuid": "f84597da-dd2a-4e2d-a1d4-a0ec3b7842b0"
+    },
+    {
+      "start_time": 791,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then of course, in a sense, we expected it. In a sense perhaps, you might say we didn’t mind. Of course, we did, but at the same time, in this great crusade, and it is a crusade to bring truth to mankind, we must expect to be placed in the pillory of public opinion. And I know full well as I look into your world and I see today, although Spiritualism is advanced and has now become respectable, which possibly in a way is the worst thing that could happen to it - because anything that becomes respectable becomes perhaps a little bit, um, boring and perhaps it isn’t.."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0516428e-420a-46dd-8dd4-20051f5ad609"
+    },
+    {
+      "start_time": 804,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "da9d10b4-ce2d-4661-94ab-9c995dd1bec4"
+    },
+    {
+      "start_time": 832,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rose Creet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "9f29fbc2-3419-4550-ac0d-8496bf073c66"
+    },
+    {
+      "start_time": 834,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...as particularly as interesting as it might be. When something isn’t particularly accepted, people's curiosity gets the better of them and they start prying and peeping and wanting to know about it and tittle-tattle about it. But you know when a thing becomes respectable, it no longer has the same interest for the vast majority of people, although of course in a sense, there is interest and this I, I do know, but what I feel is the tragedy, what I feel is a great pity, that so very few Spiritualists are concerned with spirituality"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3c54c38f-6a53-48bd-9ff3-77e447b4afd2"
+    },
+    {
+      "start_time": 871,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unintelligible "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "d5e201d4-219c-4e98-88a9-9c0ea0c3b9b5"
+    },
+    {
+      "start_time": 872,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So very few are concerned with discovering the possibility that, that is within each and every one. They’re, they're all concerned, well the vast majority are concerned, and not only...which of course is natural that they should be interested in personal evidence, this must come before one can have conviction - but so many of them are more concerned with material things; that their dear ones and relations and friends and so on, should be able to solve all their little material problems and worries and anxieties. And always they are saying to their friends on this side, 'now what should I do about this' and 'can you advise me about that' and always it's to do with their mundane material existences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "32a9df42-30f9-4e0a-8787-35325e0e9a2c"
+    },
+    {
+      "start_time": 925,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a...in a sense, I have sympathy for this. But at the same time, it seems to me the tragedy of Spiritualism that there are so few who are...who are concerned with spiritual truth, who are concerned with spiritual knowledge, who are concerned with allowing this tremendous truth to revitalise them and make them new again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e133c4d0-8233-499d-bd81-aa58b8ad5c80"
+    },
+    {
+      "start_time": 951,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a sense, there is so much that we would like to discuss, so much that we would like to talk about. So much that we feel is vital and important is held back, because of these souls who are brought onto a low level of consciousness - or should I say a low level of communication - because of the thought forces and the conditions which are built up with the sitters and even the mediums themselves fall onto that low level, of merely being there to answer the material problems and questions of the average, so called, enquirer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7af4f59c-2fba-4d7b-8a79-142bf98a1798"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know when I envisaged this subject, when I saw it for it’s true worth on your side, after I received the evidence and the comfort that was to be derived from it, I saw the immensity of it, the possibilities of it. I saw it as pause a great truth that would bring the whole of mankind together; that it would break down the barriers of creeds and dogmas and politics that have built over the centuries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1961e8dc-5a5c-4cbd-afbb-87d02617b33e"
+    },
+    {
+      "start_time": 999,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "e60ac384-8918-4844-95ae-af5bfb73e1d9"
+    },
+    {
+      "start_time": 1032,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That it would bring men to an understanding, a real realisation of the purpose of life. And the possibility of a life to come and how that reality of life to come could be brought, in a sense, even nearer by living it, to some extent, while yet on Earth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bf92e685-2f01-4fc0-982d-444369f2d2a6"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the vast majority of people, even even though they have some knowledge of this truth, do not or seldom allow it to become too important in their lives. There is no balance. We don’t expect of course, that people in a world such as yours, which of course has changed so much since my day, and which is a much more difficult a life to live and the complexities are many and vast - but nevertheless, one would have thought that those who truly have this knowledge would have some balance in their lives where they would, sort of, have this realisation and they would put it into practice. That they would allow it to be the dynamic force behind all their thoughts and their actions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "316b33dd-34e7-4746-973e-8b0097b849d1"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That they would truly be, as it were, a light, you might say, in the darkness of your world. But we are constantly, constantly being disillusioned, constantly being, I won’t say disheartened, but nevertheless, we are still human enough to feel the sense of frustration with those who we love so much on your side of life, who we feel should be doing so much that is vital, so much that is good"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e58b83ba-e49a-417b-9777-a5df84008a78"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we go into the churches and the societies, and we hear the repetition of the mundane and the material, where it should be so vitalising and so full of vitality and life of the spirit - how few churches now, it seems, have mediums or instruments who, as it were, can be taken over by the power of the Holy Spirit, to be controlled and used and speak the words of the spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5819bb33-bc0a-4663-95ed-04206eded485"
+    },
+    {
+      "start_time": 1160,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many seem to be on the low vibration. A vibration not very far removed from their own. There is so much astral communication. There is so much communication of a low order. There is so much that is said and done which is at variance with the truths of spirit, as we understand and we know it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "eec07b60-38fd-4531-b330-e58170d21ed8"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think back to my own life and I realise of course there were and must be difficulties. I know there is much to contend with, but I know this - that if a man or a woman is prepared, if necessary, to sacrifice themselves to truth, they will not allow any obstacle or barrier to stand in their way. They will go out and they will say unto the world, 'this is true, this is truly truth - for I have proved it, I have found it, and I know it to so be.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8adf89b6-1d98-441a-bc39-a69d99817a37"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this is something which you could find and prove for yourself. This is not something that depends on a book or series or group of books written centuries ago, which has been changed and altered by man oft times for their own end"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "104e5af8-de97-4ae2-a169-37411008c27a"
+    },
+    {
+      "start_time": 1235,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though the books of which we speak may have some truth - for in all things, there is truth, but often it is obscured by time and ignorance and indeed by the very thoughts and deeds of men - but behind all this is the seed of truth which, if you give it time and opportunity, will germinate and will flower."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Dormant",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8b18c687-43ef-4650-ba73-3640c0510f51"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the sad thing is when we see your world, when we see the unhappiness and when we see the misery of your world, when we see innumerable peoples who suffer, often unnecessarily - because much of your sickness and illness and disease is brought about by man himself by his wrong thinking, by his wrong living."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8f054498-639f-4c5e-af59-63575dddab0a"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing/Banging"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        },
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "52959bf0-e240-48fc-9bc8-5cf0ac914d2d"
+    },
+    {
+      "start_time": 1284,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know there are many things which cause us a great deal of unhappiness and I think one of the things that causes us most unhappiness is, that man is so intolerant. That man himself is so inclined to be self-seeking and concerned so rarely with others. Until you can sink yourself in true service and in love, you cannot hope to make any change within yourself. You cannot hope to rise above the ordinary and mundane and material conditions of life in which you find yourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "35cfebf0-e35d-4e0d-8c6e-0de9618ac289"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Until man sees within himself, the possibilities and every man has great possibility. For every man is a spirit and every man has the opportunity to develop the spiritual powers that lie dormant within him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Dormant",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "25cbcf21-a6fc-4713-9219-d726198c1cdb"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone has the same opportunity. I know there are many people who will say, 'oh well this man has a much better background or this man has a better opportunity, because of this or that. Or this man has so much more money and so on', but all these things when analysed, all fall back to the mundane and the material. And I would go so far as to say that those who seem to have oft times the biggest obstacles, are the ones who oft times, have the biggest opportunities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d5b7214f-589b-42d0-a66a-556abd4d1243"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because until you have suffered, until you have sometimes at least felt the need for the things of the spirit, you cannot understand nor appreciate them. And it is true to say that oft times, those whose tasks are many and whose path is harder, oft times they have, through their very sufferings, greater opportunity to reach through the sensitivity of things to the realities of the spirit. Because these things of which I speak are invariably revealed more to those who, by suffering and complication and difficulty of life, have become sensitised to truth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2027a2d7-38ff-41a5-be1e-adbce20c2248"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knock"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "08997f51-401d-4163-a6cc-1dc7f5b80f39"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because you cannot find truth if you live and only expect from life all that is good as the world sees it - for if you are to see the good as the spirit sees it, then truly you must have learnt through suffering and have become so sensitised to other people's sufferings and have such feelings within yourself, that you yourself have made yourself more ready to receive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "439bd200-3b67-4a59-ad92-cf1c3eec9305"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, if one wants to be an instrument or a medium if you should like to use the term medium, you can only hope to be able to accept and understand and appreciate spiritual things when you yourself have become sensitised sufficiently."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "561d681d-52f7-4ec8-9c20-c08948fbac06"
+    },
+    {
+      "start_time": 1481,
+      "end_time": 1503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those who go through life, or so it seems, without any undue concern or worry, who...those to whom life seems to present all the plums - these people are the ones to find it most difficult to understand the things that are of the mind and of the spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "abef5f46-5942-42a7-8168-1b2673128d61"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All the great teachers, all the great prophets, all the great great seers, all the men of great wisdom, spiritual wisdom - were men who suffered. No one who wants to do the work of the spirit must ever think that the road and the path is going to be easy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "97d120a1-9cd7-4b58-974f-e96200dd1e24"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It will not be. In the material sense often, it will be most difficult, most complex and indeed truth, although in fundamental aspect is, by its very nature, simple - nevertheless it has its complexities, because the human mind cannot necessarily grasp things too well, too easily."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b63b9804-0a25-42a4-b77f-76871fa518d2"
+    },
+    {
+      "start_time": 1552,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are many things, of course, appertaining to the spirit and the realms of the spirit that cannot be fully understood any more than we can fully explain them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2aac68da-b9a2-4735-bc1b-b24a4a3cbbc9"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I do say this, that any man or woman who sincerely seeks truth pause will find it. pause I know there will be some who will criticise when they listen to this. There will be some who will make excuses. There will be some that will say, 'oh well, how do we know it is him?' There will be some who will say, 'oh of course you know he had a cleft mouth, and that does not sound like his voice' - but, if they are intelligent they will know damn well I haven't got a cleft mouth over here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Pace",
+          "category": "Voice"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        },
+        {
+          "tag": "Quoting",
+          "category": "Topic"
+        },
+        {
+          "tag": "Dormant",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "1eb8b82a-556b-44e6-89d9-60246b73c9ed"
+    },
+    {
+      "start_time": 1598,
+      "end_time": 1600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, carry on the good work and... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arthur Conan Doyle",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8f5f742d-b7b8-4fde-ad1d-10cc0df055d1"
+    }
+  ],
   "set": "Default",
   "event_id": "90d994ac-e062-4870-9346-f6f5df332d95",
   "source_id": "81b7e27d-43b0-4770-9283-f19ab9bd2eb9"
