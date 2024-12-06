@@ -1,5 +1,5213 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm delighted to be here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7672712f-5161-41d8-b49d-e99d85259c89"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I'm so glad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6a013dc9-e7ea-418d-a986-ffc7c834d65d"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not quite sure if you can hear me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a5ae0a27-397f-4772-9dc4-071bc5f7bbfb"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We hear you quite well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9e47813b-7dd7-4175-8827-4d03e7ffb907"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very nicely thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "62af6f61-d3fc-4a90-ab7b-ef2830835de1"
+    },
+    {
+      "start_time": 10,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause, static, electricity, warbling?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "784e5498-c42d-42e9-bc3e-13f291bf9cfa"
+    },
+    {
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come along friend you're doing very well. muffled"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d9774252-f844-4e2e-9302-fe7f0b316627"
+    },
+    {
+      "start_time": 29,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quite...quite clear. We can hear you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "eeb5953d-0696-4eff-9ca8-cc4bb40ff823"
+    },
+    {
+      "start_time": 33,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since I'm precisely doing nothing at the moment, I can't see how you can consider that I'm doing extremely well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f9608634-9d07-4d09-bc6a-babf321e3082"
+    },
+    {
+      "start_time": 40,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "dc1e52b9-8c75-4a36-af84-140f75747a53"
+    },
+    {
+      "start_time": 42,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought perhaps you were saying something and we hadn't heard you? Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "076c93cf-4a80-406a-b1f8-91e1a5c26dcd"
+    },
+    {
+      "start_time": 46,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dff55dea-bfb9-4986-a629-5f3b1defc95d"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've never been known to say nothing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e4eaafbd-5464-45b1-a3bb-a07f2a610b60"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Please, may we have your name? You sound awfully..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2a26d23e-5a3e-42bd-8416-a5b2924e6141"
+    },
+    {
+      "start_time": 54,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I couldn't say something of value, then I'd much rather say nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f62cfced-7e99-4398-b8ef-f255765fb1f2"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who is it speaking please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dc1069e5-43b0-4f76-81f8-ba11fcba48eb"
+    },
+    {
+      "start_time": 63,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is most extraordinary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bcc4bf15-6f3d-4d85-8389-e67f2472f98d"
+    },
+    {
+      "start_time": 66,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes friends?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "81e44c9f-06c5-4597-bc35-b5281de729ca"
+    },
+    {
+      "start_time": 67,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then again...being dead is an extraordinary business! Especially when you are talking to people on Earth who are supposed to be alive and are very much dull and dim; and dead in consequence. What an extraordinary business this is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d4b69b80-1358-4bdc-8112-e5a153ed627c"
+    },
+    {
+      "start_time": 81,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d640fc2f-b01f-42c8-85dd-1f72b8b7aa41"
+    },
+    {
+      "start_time": 83,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There seems to have been a great deal of interest in...my works lately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5a24d396-1006-4fae-94e4-42e2b207416d"
+    },
+    {
+      "start_time": 94,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't quite catch what he said there..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ee29473b-f949-4f28-808d-3c03f46c1840"
+    },
+    {
+      "start_time": 97,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...a great deal of interest in his work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6c24e076-4404-41f9-a14d-b3fef9f840c6"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I see. Yes, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6fda51a8-56f0-425d-94f0-b332af8bc2d2"
+    },
+    {
+      "start_time": 101,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause, rumbling/car sounds (as with ACD audio)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "02e6771f-9de4-45e2-852f-9f12be7f35b6"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's quite clear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "31392d21-25e5-40dd-9117-fad1b6962e40"
+    },
+    {
+      "start_time": 110,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm. I wish he'd give his name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f80a8b92-5a7d-4081-9724-12a38c916aa5"
+    },
+    {
+      "start_time": 111,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause, background noises"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "f06c716d-ef08-4353-82fe-dc6cbca5dd1d"
+    },
+    {
+      "start_time": 150,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many people from this side, invariably try to say a great deal and, in consequence, say very little. For the simple reason that we are having to utilise this extraordinary method of communication. Why they cannot invent something more congenial and more suitable and more successful than this, I can't imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d7d95678-cf32-4a99-8aa3-9fcbb4dccc4c"
+    },
+    {
+      "start_time": 176,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suppose one must be grateful for Mediums. It's a pity that Mediums have to be human beings, because they are so difficult, so complex. Take this Medium for instance; if you could see this Medium as I do from this side of life, you'd realise what we have to contend with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0f5d0fdd-bd6d-425f-9bd9-26fd2f2c4063"
+    },
+    {
+      "start_time": 203,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, well we can hear you quite well friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "444a8652-71da-4a8f-8b54-02b1dea3aa7c"
+    },
+    {
+      "start_time": 208,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Friend, may we have your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "97a7fdd2-d492-4c1f-b913-8b63a49eecb6"
+    },
+    {
+      "start_time": 211,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you so concerned with my name? Surely, what I say is far more important than my name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e4e6cca2-a25a-4b4b-bf69-eeac9b65f084"
+    },
+    {
+      "start_time": 217,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes but you'd be surprised..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8b80a8ed-fcfa-468b-aff8-1112858a5ddf"
+    },
+    {
+      "start_time": 219,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name got me into a great deal of trouble when I was on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5c31f4b7-0fb3-4072-8723-04ff39b583dd"
+    },
+    {
+      "start_time": 224,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well never mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "86068964-a5ca-476a-87ca-46607154d260"
+    },
+    {
+      "start_time": 228,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thing is...is, uh...when we play this tape to other people you see, they ask who it is and we...sometimes we can't tell, you see?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "03b4d782-f0d5-4939-b0a9-7e7e194f57f6"
+    },
+    {
+      "start_time": 235,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can tell them it's Colonel Bogey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2e34eca4-06fe-45fe-a953-5f3d27b14433"
+    },
+    {
+      "start_time": 237,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8b7fd37a-5259-47cb-93ab-37a11d03d6e2"
+    },
+    {
+      "start_time": 243,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing I don't think they'd quite relish that...I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "0ea7127e-359a-42d8-a6b6-4d01e1b77337"
+    },
+    {
+      "start_time": 246,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, anyway friend, we're very pleased to have you through anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "477cf794-0081-4e3f-a9db-9e1ed2404390"
+    },
+    {
+      "start_time": 254,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm sure you are much more pleased to have me through than I am to come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3c4da360-b52d-4b54-80e5-5c2a88575c59"
+    },
+    {
+      "start_time": null,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "026a2aed-f3fa-4437-8286-3cc400a313f3"
+    },
+    {
+      "start_time": 259,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least perhaps it'd be more correct to say, that I'm quite happy to come; but I certainly wish that it were much more congenial in trying to converse - to pass through to you my thoughts - through this particular method of communication; which may or may not be successful, according to whatever way you happen to view it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7bab710c-7c1b-4d0b-9380-cef63ba952a4"
+    },
+    {
+      "start_time": 282,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But from my point of view it's the most irritating business. Here am I trying to talk intelligently to you and I find this fluctuating thing that I have to use, makes it practically an impossibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3f697165-f8dc-4ec6-a6d2-2ef87fc4a97e"
+    },
+    {
+      "start_time": 304,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When one writes, though one has the medium of the pen, there is nothing to bar you from clearly putting down on paper, your thoughts. But when you have to use another human being to demonstrate that which you feel intensely within yourself, I find it extremely irritating. Because how can another person be responsible for that which I want to convey to you with clarity and intelligence? No individual can ever act as an instrument in the true sense. I remember way back, centuries ago now it must seem, if not to you to me...that I used to try to get people to portray characters that I had created and to say lines that I had given them. It used to sound, often, so strange to me. As if they were not my lines at all and yet they were. But the people very seldom seemed to have the proper intonation, very seldom seemed to be able to put the weight behind the right word to convey the meaning behind the sentence, to give it authority and tone and colour. Invariably people were, with all due respect, very poor mediums. The same applies here using a Medium to communicate with you from this side of life. It's like using an actor on your side to try and use that person to impersonate, to give through, as it were, oneself - or that which one has written, in the case of my plays. All very confusing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9f92cccc-e202-4299-af11-c0fbdcd39597"
+    },
+    {
+      "start_time": 406,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, 'my plays'...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4aaf2570-2029-4682-8705-7becb1a8c71b"
+    },
+    {
+      "start_time": 409,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh you might as well know. My name is Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "542ac9f8-8e16-4b10-8be9-166cebbacf0b"
+    },
+    {
+      "start_time": 414,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oscar Wilde?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dbbf689e-9f65-49fd-b30a-405cbb78ea6e"
+    },
+    {
+      "start_time": 416,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I've read your books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a19ed4df-a1a8-467f-a6e9-868c2e4f0a5c"
+    },
+    {
+      "start_time": 418,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh how lovely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9d81f871-fbbe-4526-a851-c0ec411d81e1"
+    },
+    {
+      "start_time": 418,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I'm so pleased..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b24dd2fc-1b36-4aff-980b-ada417bea3cd"
+    },
+    {
+      "start_time": 419,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How fortunate you are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ac3c3648-ae93-4986-8bfa-58ccf9533492"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pardon?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1fee32da-1dc2-4cf2-881e-9bdb0aa0b497"
+    },
+    {
+      "start_time": 422,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say, how fortunate you are to have read my books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6089c199-b622-4ebd-8a92-2adecff0d088"
+    },
+    {
+      "start_time": 425,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I have"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d0c3f0c3-1582-4cb9-bd73-962e48f6c99c"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good heavens!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "749be792-d33a-4e38-ade2-28f44b891d12"
+    },
+    {
+      "start_time": 426,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Oh good grief. Yes, I've got some of your books...had some at least. A lot of your books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0de9c16b-3099-40da-846b-74e3b285290e"
+    },
+    {
+      "start_time": 432,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How nice of you to come through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b8d7aad7-a317-4ee3-9133-1d418a63925c"
+    },
+    {
+      "start_time": 433,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suppose I should be highly flattered to know that you've read my books and you've actually got one or two. Which means or rather suggests that you bought them, which is very nice to know. But not that I'm getting any of the royalties. No doubt you belong to a very good library."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "df76b6eb-e855-45da-b410-803a9bd8f760"
+    },
+    {
+      "start_time": 446,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "3e543486-7dc7-4402-bbab-ad443a8d3a59"
+    },
+    {
+      "start_time": 450,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Wilde, can you tell us some of you life on the other side now if you please - what you're doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "82adaf9d-0be9-4424-acec-52ba373b7089"
+    },
+    {
+      "start_time": 454,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I must admit, it's a relief to be asked to discuss one's life over here, in preference to one's life when on Earth. Because in any case my life when on Earth is pretty well-known among the gossip-mongers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "de6f09bf-9b8e-4bc1-9568-7eddbae2ac1d"
+    },
+    {
+      "start_time": 466,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "248e45aa-61bb-4bab-807e-5902cc471178"
+    },
+    {
+      "start_time": 471,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very interesting..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e7da06c6-cbe2-4bdd-868f-5eb921cbe91d"
+    },
+    {
+      "start_time": 472,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I were to say to you that my life here is not un...unlike my life on Earth you would probably be very horrified. But it happens to be perfectly true and I've no regrets about it whatsoever. I'm perfectly happy and perfectly contended and I live a life of delicious sin!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "60f8a9ad-6384-4418-9dba-da69b01615e4"
+    },
+    {
+      "start_time": 489,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b9fcdf0e-f598-4ee8-ab11-869a06569117"
+    },
+    {
+      "start_time": 490,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unintelligible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "28f8f87f-484a-4516-82f4-1061e7306c9f"
+    },
+    {
+      "start_time": 491,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But only as the world sees sin. Because as the world sees sin, it is no longer sin here to be human and to be natural. But on Earth, to be natural is to be sinful. But over here one can be sinful because it is natural. But the world has strange ideas of sin. I live a natural...natural existence here and I'm perfectly happy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "16d09f82-2dd1-48f3-bc60-457d83725899"
+    },
+    {
+      "start_time": 515,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have my friendships and I have my friends, because you can't have friendships without friends, obviously. What an extraordinary couple you are..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c75b93eb-1904-407a-824f-f71473369e8f"
+    },
+    {
+      "start_time": 526,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e6938441-234a-4cbc-a997-2d82d8e8b4b0"
+    },
+    {
+      "start_time": 528,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I've heard about you; how you strive to reach people on your side, to enlighten them and to uplift them. But do you think they are going to any happier for that? Having seen so many people, I think they are much happier in their miseries and in their darkness, than ever they are in light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ac3c2085-fd86-492e-a22d-31c5db56e189"
+    },
+    {
+      "start_time": 544,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You show illumination to a person, they'd start screaming like mad and run like mad to escape from the illumination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f4ad4427-a309-4365-9cad-255e3c0cd9a5"
+    },
+    {
+      "start_time": 551,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "3ff00d35-11e5-4daf-9c78-a745903dcf57"
+    },
+    {
+      "start_time": 553,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I wouldn't say that in every case Mr. Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8645b54f-6043-4575-b010-99d83aa10ad1"
+    },
+    {
+      "start_time": 554,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know! I'm being facetious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f1d0b306-7db8-4b15-9e17-06f76d3a23b3"
+    },
+    {
+      "start_time": 556,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "16624bd9-f58b-48e2-b822-6c7c187df5c3"
+    },
+    {
+      "start_time": 557,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then of course, I do realise that there are many people in your world whom could be helped by this truth. Because it is truth. But at the same time, there are many to whom it might even be a bad thing. Look how happy some of them are with their saints. What a pity to take them away from their saints. They would be lost. They would be like children in the wilderness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ac3f32bf-c90c-4962-bf07-fe1547d6da74"
+    },
+    {
+      "start_time": 581,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They are to be pitied you mean really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c7262657-cd83-4c58-bdc9-164833fe698b"
+    },
+    {
+      "start_time": 583,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I wouldn't say that. It gives them great happiness. Why take away something from a child that amuses it and keeps it quiet? After all, do you want the child screaming because it's lost its toy?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f9e68591-32b1-4a10-a8cf-8f66b1054c76"
+    },
+    {
+      "start_time": 595,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knowledge comes with adult life, so we are told. That's why so many adults are like children. They haven't really grown at all have they? What an extraordinary pair you are..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8e9d76d7-341d-4386-8db5-fe86d1dac8c7"
+    },
+    {
+      "start_time": 610,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "1d123c37-9289-4dba-91c4-9ae7459ae672"
+    },
+    {
+      "start_time": 611,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing Well I quite agree with you really. I look upon, really, the people like children, in the way of the knowledge and the...how they express their knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c4e42dc6-cb65-4542-81de-6c7d92b77453"
+    },
+    {
+      "start_time": 620,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many of those on your side who profess, evidently, to know this knowledge, to know this truth, to know about communication, to know about life after death - so many of them seem to me rather like overgrown children. They haven't really benefitted from their knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ff6fa025-b18c-40ea-9547-c7166168f285"
+    },
+    {
+      "start_time": 642,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sighs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "15a9e2b9-5b0c-42c7-bd26-d33f0b4711ba"
+    },
+    {
+      "start_time": 642,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed, it seems to me that some would have been better without it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "02e23cc6-1b36-4506-82c2-6a86cdcd615e"
+    },
+    {
+      "start_time": 647,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. There is a point there, that some would be better without it, in the way they use it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ce165a83-ccd8-4ac3-baa9-85316718a413"
+    },
+    {
+      "start_time": 658,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, you don't want to attack this subject as if you were some missionary going out into darkest Africa. You might end up in the cooking pot you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "59eef3fe-0d96-4bda-a073-adf367c26884"
+    },
+    {
+      "start_time": 663,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "86c0a4e6-e841-4b76-8b50-75187a533270"
+    },
+    {
+      "start_time": 667,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think we've ended up in more than one cooking pot really..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9f18a1c5-b6a9-497e-83aa-2946f05d64c8"
+    },
+    {
+      "start_time": 669,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm quite sure you have. And I'm quite sure the people who have stirred the cooking pot for you have been the Spiritualists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "38ad8596-f749-41d2-b5ac-75a3baa1211d"
+    },
+    {
+      "start_time": 677,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a06e93a3-c01d-4711-a69e-6f7aabb98c8e"
+    },
+    {
+      "start_time": 678,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1c80e473-290a-4f59-bcab-f7c00ff68eab"
+    },
+    {
+      "start_time": 678,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You would be much safer among the wildlife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dcb1a85e-b20a-40f4-8ee9-982e457650f4"
+    },
+    {
+      "start_time": 681,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I agree with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "60391479-77eb-47d0-9940-22097af0611c"
+    },
+    {
+      "start_time": 684,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These Spiritualists...you know, I've to many of their so-called meetings and séances. Do you know, if it were not rather sad, it would be highly amusing. I've been to some of these séances, these meetings and really, it's so...so pathetic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "46a15925-6904-4e84-bf77-3158d81defd2"
+    },
+    {
+      "start_time": 705,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've seen dear little old women in Bayswater, standing up, orating - or at least so they thought – thinking, no doubt, they were being controlled by some great entity or soul from this side. Their imaginations run riot in Bayswater!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9a62e515-6bbb-4136-affd-3a070b9ab968"
+    },
+    {
+      "start_time": 721,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e1900b86-b3e9-4100-b4db-c21a0260e64a"
+    },
+    {
+      "start_time": 722,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I quite agree with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bebe13e8-aae8-432d-a0de-6681b6e466af"
+    },
+    {
+      "start_time": 724,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much harm is done by these strange creatures. Why is it that the women of sixty turn to this sort of thing and become most extraordinary characters in consequence? They would have been much happier pushing a bassinet up Bayswater Road!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3215a4b4-0550-4253-97c3-c8e6ef678c76"
+    },
+    {
+      "start_time": 741,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "07be9c42-5fb8-469e-8fd6-3830aedb7d12"
+    },
+    {
+      "start_time": 744,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perhaps that's why they've done it, because they've had no bassinet to push."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e79cbdf4-4e75-44af-a9fc-a7ec097b55b0"
+    },
+    {
+      "start_time": 745,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possibly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2a55730f-f540-4b12-9b12-f9bc25dbffc7"
+    },
+    {
+      "start_time": 747,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8f15a34e-27b1-47e9-b4f6-12ea2b586610"
+    },
+    {
+      "start_time": 748,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though they certainly haven't given birth to children, but they've given birth to some very weird creations purporting to come from our side of life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "559cf101-3379-4811-bda8-9ad26afc5740"
+    },
+    {
+      "start_time": 758,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e8e9ba4c-b4f2-4903-a9c7-024289e01a83"
+    },
+    {
+      "start_time": 759,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you doing on that side of life now, uh..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a3973089-b983-4e6e-8b72-0aadd8d3b610"
+    },
+    {
+      "start_time": 762,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why should I tell you what I'm doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3ea7f4e6-79a5-4e49-a973-739296770de8"
+    },
+    {
+      "start_time": 764,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we're very, very interested. We'd like...it would be interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3b67d2fa-0f5c-43eb-983d-47b95729677d"
+    },
+    {
+      "start_time": 767,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actually...seriously...I am still writing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d373225b-1065-412d-a888-ad56a91fc8f1"
+    },
+    {
+      "start_time": 770,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c427474e-fa3d-458b-bc1f-155136999772"
+    },
+    {
+      "start_time": 770,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "90139235-352c-4567-be3e-0a67eb59548d"
+    },
+    {
+      "start_time": 771,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I am still having my plays performed. And I am often called upon to go down into the lower spheres - to help. Strange no doubt you may think, that I should be called to lower spheres to help..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "add97e9e-fe82-46df-b8b3-c3eb227294b0"
+    },
+    {
+      "start_time": 787,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c162127c-c31c-4759-acf7-5e90e558ebf6"
+    },
+    {
+      "start_time": 790,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possibly, you might even interpret as well, probably I am more suitable to help people on lower spheres, because I haven't progressed very much myself - but actually, I'm very much in tune with all peoples. My mind, I trust, gives me the entrée, even if my reputation does not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "47081383-fd34-4826-9387-ba0d454e0d66"
+    },
+    {
+      "start_time": 809,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I don't know. Your books were..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ace3a803-0799-44b2-8ee6-1fceeb049432"
+    },
+    {
+      "start_time": 813,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My reputation does not worry me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c5920826-4311-428f-b26d-82e51dbf2c03"
+    },
+    {
+      "start_time": 815,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e14f7dfc-1fcd-4f2c-99ba-c1d3b4b606e8"
+    },
+    {
+      "start_time": 816,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it seems to worry a hell of a lot of people on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "10ca5592-52d5-4192-82b9-b01858b010d5"
+    },
+    {
+      "start_time": 820,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your books are very valuable in knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2fced724-15a8-4ce5-9df7-095f7a39c5d8"
+    },
+    {
+      "start_time": 823,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unintelligible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "c89c6306-9271-44f3-9907-db70bb9d7676"
+    },
+    {
+      "start_time": 824,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Evidently, more money has been made out of my reputation since my death, than ever I was able to make out of my plays; which goes to say that sin is very successful!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2d64a081-037b-4c33-b8a8-3f97ef0c0121"
+    },
+    {
+      "start_time": 834,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "961fc5cc-7683-4936-8b60-a152e5abf25b"
+    },
+    {
+      "start_time": 834,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "bdb70e59-faab-499a-b105-8fde97625d72"
+    },
+    {
+      "start_time": 841,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said Mr. Wilde, you always had a very open mind, didn't you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0495b7e7-7db8-463d-8c09-4fa6d0d60189"
+    },
+    {
+      "start_time": 845,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mind was always wide open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "693c70f0-5657-4681-a33c-c746417c62d5"
+    },
+    {
+      "start_time": 847,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was above the average, you see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a8efde85-d83b-4f10-b18c-32ca2d50d5f1"
+    },
+    {
+      "start_time": 850,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mind was always very wide open and as you say, above the average. Can you tell me what the average is and how open a mind should be? I was always ready to receive inspiration. Indeed, I might say that my most successful works were due to the fact that I had an open mind and in consequence, much was poured through it of inspiration, which was highly successful and I feel sure that if it were not for the fact that I was 'high-minded' we wouldn't have had perhaps some of the successful works that I was able to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3fd315ca-acd1-4e9c-84a6-453e8ff75cc8"
+    },
+    {
+      "start_time": 882,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a539e6fb-3bd1-4aab-beeb-d3778d4a575f"
+    },
+    {
+      "start_time": 883,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But of course this is a matter of dispute among many people. One man's rat poison is another man's meat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6264766e-bbb0-4bb2-b385-bbf7072f3bbc"
+    },
+    {
+      "start_time": 893,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no, I think...I think every writer is inspired from somewhere to a certain extent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8e653563-66a8-4db4-8f33-33c42fb2bc4f"
+    },
+    {
+      "start_time": 897,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh well don't take away our own personality and our own originality my dear, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "70b409d3-b3fb-490a-90b8-68c875d75e79"
+    },
+    {
+      "start_time": 901,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no, no..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b18ad4f2-2995-4605-af3a-4af2bd3b0b72"
+    },
+    {
+      "start_time": 903,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, I'm quite prepared to admit I was inspired. I was always an inspiring figure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ac1f6d0c-0ee5-46fb-b2b2-0a13389e7cc7"
+    },
+    {
+      "start_time": 908,
+      "end_time": 910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "3aa7c206-617c-4293-a9a2-7e43e0f44bc8"
+    },
+    {
+      "start_time": 911,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, now I've become almost awe-inspiring, possibly because I'm dead!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ea356602-0a23-452e-acbf-941aa198b93f"
+    },
+    {
+      "start_time": 914,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "96949f74-01f0-4507-bea6-221f2bf43f4d"
+    },
+    {
+      "start_time": 917,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Coughing",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e45f2478-ad91-4747-9b40-337722d62bc6"
+    },
+    {
+      "start_time": 918,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Wilde, um..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f33f85fe-cdec-4c12-907d-43121bbcb5bd"
+    },
+    {
+      "start_time": 920,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You wish me to drop the flippancy and be serious?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "21791fdd-8350-49d8-810b-abd109a97a26"
+    },
+    {
+      "start_time": 923,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no...it's typically you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "44c11aa4-49cf-4500-9232-3b29df844eb7"
+    },
+    {
+      "start_time": 925,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But to be serious is often to be boring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "38857c8f-559f-4ca1-99b3-39f2b34c0fcf"
+    },
+    {
+      "start_time": 926,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...don't drop it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "72500942-11d3-4417-9167-b534e27f8985"
+    },
+    {
+      "start_time": 927,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many people when on Earth were so serious that they couldn't fail to be utterly boring and I refuse to join such a gathering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b61c148f-efd8-468f-a179-ee0a52e67be8"
+    },
+    {
+      "start_time": 938,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No please don't drop it, because it wouldn't be you weren't like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e16d32be-af08-4784-9850-ad970f481522"
+    },
+    {
+      "start_time": 941,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This I do deliberately, because there will always be people who say 'how do we know that this is Oscar Wilde?' And so I am expected to come back very much the same, with the same...attitude towards life and towards people and to say the same sort of things that would be expected of me. So for your sakes I do this, because I know, poor dears, you're struggling so desperately hard to convince. And if I can assist you to convince, then I shall be doing some good work that may wipe out some of my blots. Oh!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b3c9abe5-7b02-4882-8df4-0cec1519e6b1"
+    },
+    {
+      "start_time": 977,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Wilde? Since you've been on the other side have you... have you learned anything?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "19460b67-9acf-462b-8d0f-de14fe5c3673"
+    },
+    {
+      "start_time": 984,
+      "end_time": 989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd be a most strange person if I hadn't learned something after being here so long."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "27ccf607-9cfb-460e-afac-d30b9436b1fd"
+    },
+    {
+      "start_time": 990,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bc6a8afb-914d-4431-9688-43ccff69e0e4"
+    },
+    {
+      "start_time": 990,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We all learn, whether we like it or not. Whether we are apt pupils or not, we all learn, no matter how bad the teacher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "176c36c0-720e-4295-9e29-098bd16a27d8"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you surprised when you found yourself on..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "46f48583-d7bf-4fc4-8c0c-00d37151df7b"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing has ever surprised me. And certainly nothing could possibly surprise me in regard to God, because he was a person who was always doing the most surprising things - if one was to believe all that one read in the Bible. In fact, he seemed such an extraordinary character, that he became interesting in consequence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "1d865876-93d1-4d4f-a0a7-939165d18c82"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "244f5b1f-b866-4746-a8de-14652253c075"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "2dc05cc0-7ac7-42b0-b77a-04da290b75fc"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "06977e31-7327-48f7-87cf-401b4e8b7c8c"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sniffing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ad334e7b-8531-4335-8181-458eb907fdec"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, how actually did you find yourself when you passed over? Can you, sort of, describe your actual passing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d770dd23-bf5a-4ab4-b636-336de7c821af"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I just died like everybody else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a45e8700-488c-4d28-b9c9-721075979901"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm...but you must have found yourself somewhere; in a garden or a room or..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1664671a-0865-475a-adcc-8786ea84ce86"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why should I necessarily find myself in a garden? Or why, for that matter, should I necessarily find myself in a room? How embarrassing it would be, for instance, to wake up and find that you were in Lady Cynthia's boudoir at a very inconvenient moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cdd35e8a-1b9b-47bb-9ff5-6cebf83fab06"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "caaa50b1-4848-4fe5-966c-699e0d829cb0"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No but, I mean, people met you didn't they? Somebody must have met you and helped you over?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b776ffb4-7068-4766-8fdd-de78915129d2"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well it's a natural thing I suppose to assume, that if you're going on a long train journey somewhere, that your friends at the other end will be at the station to meet you. But I do remember taking some extraordinarily long journeys and having a wearisome trip in consequence, and arriving in the middle of the night and no one there, no one with a brougham**, no one with anything. Just stuck there with one's...with...with one's luggage, wondering whether to go to the nearest hotel or to get the train and go straight back. But of course, unfortunately one can't get the train and come back to your side of life or fortunately, whichever way you happen to look at it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "96179080-327c-4d8b-9528-7136d94e794c"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But actually, seriously, I was met by my mother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0a3606d1-b78f-446d-ad2c-2ce70afe1548"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "de58b2ff-6f62-4d8e-8c78-6a4ee2379523"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how did you find things there, you know? Did you find it much about the same, as things on Earth or did you find things vastly different?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d18f1a9b-4f1e-4b98-b6d3-bfb611281c3d"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well naturally. You can't go to a strange country without finding things vastly different. But the extraordinary and interesting thing is that the people were the same. Situations may be different, the country may be different, habits may be different, one's attitude towards life and everything may be different. The people, thank God, are the same. They still look the same and they still are the same - and, in consequence, one felt at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b7662187-a4ec-48b1-9dff-d27d954dc3a2"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I met many, many people that I had admired and many that I didn't admire and since have learned to admire. For different reasons of course. And I've travelled a great deal; to many places, many spheres - many countries - if you like to call them such. Because in a sense, they are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8a473c23-f0e2-4fab-90be-725dc290bf6f"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are no barriers, only barriers in oneself...within oneself, in one's own mind. The barriers between human relationships and peoples are within oneself; they are man-made and one learns to discard them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "fcda3c61-eacc-42bb-9924-920467a64653"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One learns gradually to avoid many of the pitfalls, but when one has been here, even for a short time, one realises how very much we are all part of the other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b7c53ef2-ae6a-4fed-8353-af15e39c5d29"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are all entwined and in tune. Though sometimes at first it seems that we are very much out of tune. We are all very much in tune and all very much of one mind and of one spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "19d0a023-a7c1-4fba-afe2-116a036e362b"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's all very intriguing, because all God's children eventually begin to merge. Although they retain their individuality and separate personality, we all begin to merge until we are harmonious. And in consequence, we live in a condition of peace and quietude and harmony, where all and each can have his or her interests, such as they may be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "061dee03-b162-46d4-ab2e-6e11d9faf21d"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some feel the urge...the need to work in various ways. Others do not. I prefer to continue to write because writing was, to a great extent, my life. And I am hoping to find a suitable instrument on your side - if I can - whose mind will be sufficiently open that I might be able to transmit new plays, new works, new things of interest, which will help humanity and enlighten humanity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d6e06deb-70ae-4624-989d-278f29a43c17"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But always remember, that the best way to reach a man's heart is not...is not through his stomach. But to reach his heart is to realise that one must give to him, something which is far removed from material things; something of the mind and of the spirit, which will last through time itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Material",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e4746f91-619b-4532-94d6-e1bde4d92c93"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel that I could do a great deal, but I have yet to find a suitable instrument to do this work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5f3decba-8e9e-4dee-8b2c-09feef7207c5"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c373b7fc-cae9-4b8c-9a2d-31e3b091b775"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we hope you will find one because the...your books, I admire them very, very much..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f72fc369-f47b-4f8f-a98a-2cf693c424b9"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sniffs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e562ee88-5bf2-47cf-9570-e54a394eedda"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...unintelligible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unintelligible",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "6b5a9851-d627-4d17-967e-853935a1e07b"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I won't embarrass you by asking you the name of one of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f0d993a4-c86b-48a9-b1aa-768f45ea87ff"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, uh, and I also read about the...your...the trial, your trial too, you know...unintelligible...and I thought you didn't have a very fair trial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b648767a-2240-4644-b427-b25f98c32b06"
+    },
+    {
+      "start_time": 1338,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d2a6c327-803e-41d6-9688-28c19dd57aec"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought it was very unfair and unjust."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c6e5f726-00c4-42c6-bef4-c3039b2893e4"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your trial has been enacted several times..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ffc998b7-3251-4981-940b-655b12dccaa5"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I know. It has been the most highly successful part of my career."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9a67223f-ebbc-4772-a4e4-ec936a92dce8"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "4f201578-5e6a-4cce-804a-211d119027a2"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Wilde, have you any...oh I suppose you...everybody has..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4921da0f-9856-4244-97b0-53f98ac15290"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I find this so complicated speaking to you. Most irritating in a way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "79f13255-490e-4d72-adc1-e0169a7b8be7"
+    },
+    {
+      "start_time": 1364,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f0c5f6b2-64a7-4ad5-81e7-a967c614154b"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's as if I can't get my mind clear; all the time there are stumbling blocks and hindrances. But no doubt I shall improve. Carry on, what was it you wished to ask me?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "14a5f60f-d208-41b4-967f-dd321b7f83f0"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I expect everybody has when they pass over, you had some regrets I suppose? I mean, perhaps something you didn't do while you were over on this side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9a38921e-2737-4664-b9a5-a61e06740ca6"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well my first regret was that I didn't stay longer on your side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c324f9a9-360c-4ace-afca-b82a2ea1aed6"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ab774b70-71a1-4e87-a515-661655d153c1"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well of course. I still had desires. I still wanted to write further. I still wanted to reinstate myself, strange as it may seem, in human society. Not that I ever felt completely I was out of it. But I was sufficiently vain to assume that I could recapture my old place in the world. But that's a long time ago. Since then I've changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "26ea3fb2-e3a9-4267-bf16-eb2ee13c0a29"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm...yes. Is there anybody you would like to give a message to? It will go down on the tape you see?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fe8d5e77-6f2e-4f98-9116-764c281c5b3d"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think there's anyone left on your side that I have any particular desire to send a message to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0554cd62-953e-4536-bd52-fc96742c5619"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you met Bernard Shaw on your side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7d2f2490-648c-4438-ab8d-053cc2edc8d1"
+    },
+    {
+      "start_time": 1429,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I have met Shaw. Of course I've met Shaw...what a man!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "37356d17-06f4-4acd-b018-7c6949a4af24"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "6e0c4fba-e1e1-4d89-a60a-760439beb574"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's true, yeah..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7f8ac6d1-f639-4373-b5f2-23e23a73430f"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extraordinary character. Brilliant, if rather...well I perhaps better not say these things. I'm supposed to be, to some extent, developed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1e8de175-d59c-4b58-953d-eb3be2b8d516"
+    },
+    {
+      "start_time": 1449,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c813d24f-53ba-4812-807a-3293634028a2"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's it like on your side; the plane you're on? Can you tell us something about that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cb59f944-ca6f-450d-9ed9-d9a8f7a726f0"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric, rumbling/revving"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Recording"
+        }
+      ],
+      "uuid": "85cd8a0a-abab-49b3-8a52-051396df3a2f"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean pictorially?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a34e79f7-2493-41af-8ff9-972ff86898cf"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I thought...you have theatres and things like that. You've got theatres haven't you? Are you able to...you're still acting on...still have plays on that side and that sort of thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c0bc95e0-3a4a-4c3d-9600-3c17693bc823"
+    },
+    {
+      "start_time": 1474,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, one still writes and one still continues. Our world is, in some senses - as I've no doubt you've heard - is very similar to your Earth. And we have all the manner of scenery that you are accustomed to. Even more beautiful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b6815acb-c747-40fd-81c4-31c53d49b859"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nature, as you know nature, exists here. But the worser aspects and the more irritating aspects of nature are non...non-existent to us. For instance, we don't have the pests; such as flies, earwigs and all the irritating things that nature concocts to annoy man. Those things seem to have disappeared fortunately. We seem to have all the beauty and all the loveliness of nature, without all the petty irritants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5e5c7f98-8713-4cea-8044-897084ff1dbc"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1a76ff8f-2675-4d9f-a875-b3f8891f0fb1"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No more swatting flies. Oh, I used to know a woman once, who used to love sitting all the afternoon in a chair with a swatter! And she had a swatting afternoon..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "170c9631-dc54-4064-ab36-e19f64d3f6ba"
+    },
+    {
+      "start_time": 1542,
+      "end_time": 1542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b272c863-a25d-48cb-90ad-e4a9beba06fe"
+    },
+    {
+      "start_time": 1543,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I often wonder what she must be doing here without a swatter, without her flies to swat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a4331311-c004-437d-8480-23100915c0fc"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh a long time ago. Things have changed. I look at London and I hardly recognise it. Thank God I lived before my time!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "905a0052-8375-44a4-85ee-2986c23259b1"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes it has changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7a0101ff-ed82-416e-9ee4-0913344e75f8"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. You won't recognise all the terrific tall buildings that are going up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d334a14b-7ac6-4177-8c48-a4e65679b5b3"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't recognise hardly anything of London. And I am so happy that I came as I did and I departed as I did. I wouldn't want to live in your London today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0fb978e9-88e6-4249-a8ee-2713c6be8069"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are your buildings like in...on your side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6002b754-acc8-4360-a2d6-074de9710a27"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have all manner of buildings. But on the sphere in which I live they are all elegant - great beauty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a9528eea-105b-455d-81ec-12070264cdf7"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What, towns and cities and...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7c4189db-4441-494d-942b-6f9d5bfa8bbb"
+    },
+    {
+      "start_time": 1589,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, you could call them cities. They are cities in which untold thousands of people live and have their habitat. But it's so different and yet, in some ways, so like the old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e5841759-b253-4d8e-bb5c-bea0a1cb104a"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you don't have cars and things like that, have you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4371d43b-bedf-4632-b64b-77c7446189b9"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. Thank goodness. We do not have those machines. Horses we still have; animals, pets - much that meant so much to humanity and humanity, to some extent, gave to in return. Such as one's pet dog, one's pet horse. Animals are very near to humans. Unfortunately humans are very often near to animals. I sometimes think the animals are more advanced than humans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2c4c7968-154a-4437-99bb-c4805eae4146"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c889b4a7-6fc3-4ba0-a247-024eda4ef6a5"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least they follow their natural instincts and they are not, in consequence, considered to be doing anything morally or otherwise wrong. Human beings are always in trouble, because they are trying desperately, often, to fight their true selves. Man should be allowed to be his true self, because only by that can he hope to develop. I do not mean by that, that crime, as such, should be recognised or in any way assisted. But there should be some curb it is true, by the law. But the law itself has such strange ways of working. It cannot understand the frailties or if it can understand the frailties of the human, it often punishes unnecessarily. We must help each other, we must learn to be more kind, more tolerant. We must try always to put ourselves in the other person's place, try to realise that we have a duty to others. And that the only way we can hope to find our salvation is to be merciful and to be considerate and to give love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b1d46617-84d7-454b-b62d-23c81e438d10"
+    },
+    {
+      "start_time": 1716,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have a house yourself where you can write in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4a9f5899-3635-4969-87a8-3cba6fd6a228"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I do. A very beautiful house. A house after my own heart. But then again, in a sense, I suppose it is because I myself created it, without even realising it. I was creating before I ever came here, by my thoughts, my better thoughts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3001d441-764b-4531-b1d1-d4956b06bb73"
+    },
+    {
+      "start_time": 1736,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And with a garden and all that outside?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1f3f0a35-22d0-40fb-a65e-a5ccbbf25f80"
+    },
+    {
+      "start_time": 1739,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a garden. Not too large, but sufficient."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8dc9e869-0906-48bb-8f72-6f39216db50b"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d24de676-9b6f-4794-b851-269bc8583a1f"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was never one for the outdoor life. I appreciated nature, but I preferred to watch nature from a distance, rather than to be always be underneath her glaring light. One perceives often more clearly, more distinctly, from a distance. I must go. I will come and talk to you again if I may?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b83857bb-0e12-45a2-b0e0-db477819f9e5"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very nice of you to come through. Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "29060e03-651e-46d4-9f01-41ac15deeae9"
+    },
+    {
+      "start_time": 1765,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you Mr. Wilde, very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5020fc9f-ecb5-4b77-a13e-1797dcd76bcc"
+    },
+    {
+      "start_time": 1767,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been very nice speaking to you and if I sometimes I've seemed...seemed a little acid, I've done as much for your benefit..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e9d14986-cca1-454c-af4a-e31843a1efa3"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes, we know you have."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "acd08bca-4b75-4a6f-8337-857a021685f5"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've done very well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "87ec3a06-2943-46b6-bada-95e1574b5190"
+    },
+    {
+      "start_time": 1775,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...so that you might, in some measure, be of help to others. Because otherwise if I am not, to some extent, my old self, people will say 'that cannot be'. So for your sakes, I do this. But I can and will talk on the things that you wish me to speak about, uh, in due course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "003189e1-f6c0-44b8-9757-b3ec2bebfd4d"
+    },
+    {
+      "start_time": 1791,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May God bless you' - that is the common thing to say I believe, when you say goodbye at Spiritualist séances... 'May God bless you my friends' - I'll say it with the rest and be one of them. Goodbye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Oscar Wilde",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "dbef324f-5adf-4264-a093-902aaf250664"
+    },
+    {
+      "start_time": 1801,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you Mr. Wilde."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Betty Greene",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4420e0d8-9644-40f6-9bba-914214a14846"
+    },
+    {
+      "start_time": 1802,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "George Woods",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "14443530-e6f4-488d-ac44-a78b71165973"
+    }
+  ],
   "set": "Default",
   "event_id": "64acf8c8-e9b1-414a-92f9-94c0890eef6a",
   "source_id": "788718ab-49e1-4ac2-aec8-9f75242427b5"
